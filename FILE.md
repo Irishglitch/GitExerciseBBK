@@ -29,3 +29,14 @@
   <li>git add . && git commit -m - To commit </li>
   <li>git push </li>
 </ul>
+
+<br><strong> Commit 10.</strong>
+<hr>
+<p> Branch: <b>Master/Main</b>
+<p> Changes to FILE.md: <b>Commit 10 added</b>
+<p><b>List of commands used for commit 10</b>
+<ul>
+  <li>git checkout master</li>
+  <li>git add . && git commit -m - To commit </li>
+  <li>git push </li>
+</ul>
