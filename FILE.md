@@ -9,6 +9,24 @@
   <li>git add . && git commit -m - To commit </li>
 </ul>
 
+<br><strong> Commit 1.</strong>
+<hr>
+<p> Branch: <b>Master/Main</b>
+<p> Changes to FILE.md: <b>Commit 1 added</b>
+<p><b>List of commands used for commit 1</b>
+<ul>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
+
+<br><strong> Commit 2.</strong>
+<hr>
+<p> Branch: <b>Master/Main</b>
+<p> Changes to FILE.md: <b>Commit 2 added</b>
+<p><b>List of commands used for commit 2</b>
+<ul>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
+
 <br><strong> Commit 3.</strong>
 <hr>
 <p> Branch: <b>Bug-Fix</b>
@@ -28,3 +46,15 @@
 <ul>
   <li>git add . && git commit -m - To commit </li>
 </ul>
+
+<br><strong> Commit 5.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix</b>
+<p> Changes to FILE.md: <b>Commit 5 added. File eddited</b>
+<p><b>List of commands used for commit 5</b>
+<ul>
+  <li>git merge af39e12 - Merging commit 4 & 2</li>
+  <li>Stash changes and accept merge</li>
+  <li>Fixing all changes</li>
+  <li>git add . && git commit -m - To commit</li>
+<ul>
