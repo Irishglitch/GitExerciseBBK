@@ -108,3 +108,12 @@
   <li>git merge 893800b </li>
   <li>git add . && git commit -m - To commit </li>
 </ul>
+
+<br><strong> Commit 12.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix</b>
+<p> Changes to FILE.md: <b>Commit 12 added</b>
+<p><b>List of commands used for commit 12</b>
+<ul>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
