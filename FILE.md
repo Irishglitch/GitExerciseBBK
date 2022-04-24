@@ -58,3 +58,13 @@
   <li>Fixing all changes</li>
   <li>git add . && git commit -m - To commit</li>
 <ul>
+
+<br><strong> Commit 6.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix</b>
+<p> Changes to FILE.md: <b>Commit 6 added. File eddited</b>
+<p><b>List of commands used for commit 6</b>
+<ul>
+  <li>Fixing all changes</li>
+  <li>git add . && git commit -m - To commit</li>
+<ul>
