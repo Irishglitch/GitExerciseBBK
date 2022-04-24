@@ -19,3 +19,12 @@
   <li>git checkout bug-fix - Moves branch to Bug-Fix</li>
   <li>git add . && git commit -m - To commit </li>
 </ul>
+
+<br><strong> Commit 4.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix</b>
+<p> Changes to FILE.md: <b>Commit 4 added</b>
+<p><b>List of commands used for commit 4</b>
+<ul>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
