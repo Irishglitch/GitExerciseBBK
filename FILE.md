@@ -140,3 +140,15 @@
   <li>git merge 1961d2b - Merging between 10 & 12</li>
   <li>git add . && git commit -m - To commit </li>
 </ul>
+
+
+<br><strong> Commit 14.</strong>
+<hr>
+<p> Branch: <b>Master/Main</b>
+<p> Changes to FILE.md: <b>Commit 14 added. Picture added</b>
+<p><b>List of commands used for commit 14</b>
+<ul>
+  <li>git add imgage_gile FILE.md</li>
+  <li>git log --graph --pretty=oneline --abbrev-commit</li>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
