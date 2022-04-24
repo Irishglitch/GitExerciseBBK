@@ -68,3 +68,43 @@
   <li>Fixing all changes</li>
   <li>git add . && git commit -m - To commit</li>
 <ul>
+
+<br><strong> Commit 7.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix-experimental</b>
+<p> Changes to FILE.md: <b>Commit 7 added</b>
+<p><b>List of commands used for commit 7</b>
+<ul>
+  <li>git branch bug-fix-experimental cd1d8ac  - Creates a new branch (Bug-Fix-experimental) and poitns it to commit 4</li>
+  <li>git checkout bug-fix-experimental - To move to a different branch</li>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
+
+<br><strong> Commit 8.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix-experimental</b>
+<p> Changes to FILE.md: <b>Commit 8 added</b>
+<p><b>List of commands used for commit 8</b>
+<ul>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
+
+<br><strong> Commit 9.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix-experimental</b>
+<p> Changes to FILE.md: <b>Commit 9 added</b>
+<p><b>List of commands used for commit 9</b>
+<ul>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
+
+<br><strong> Commit 11.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix</b>
+<p> Changes to FILE.md: <b>Commit 11 added. Merged between 6 & 9</b>
+<p><b>List of commands used for commit 11</b>
+<ul>
+  <li>git checkout git-fix </li>
+  <li>git merge 893800b </li>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
