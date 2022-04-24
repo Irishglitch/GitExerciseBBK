@@ -48,3 +48,12 @@
 <ul>
   <li>git add . && git commit -m - To commit </li>
 </ul>
+
+<br><strong> Commit 9.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix-experimental</b>
+<p> Changes to FILE.md: <b>Commit 9 added</b>
+<p><b>List of commands used for commit 9</b>
+<ul>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
