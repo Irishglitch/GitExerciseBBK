@@ -39,3 +39,12 @@
   <li>git checkout bug-fix-experimental - To move to a different branch</li>
   <li>git add . && git commit -m - To commit </li>
 </ul>
+
+<br><strong> Commit 8.</strong>
+<hr>
+<p> Branch: <b>Bug-Fix-experimental</b>
+<p> Changes to FILE.md: <b>Commit 8 added</b>
+<p><b>List of commands used for commit 8</b>
+<ul>
+  <li>git add . && git commit -m - To commit </li>
+</ul>
